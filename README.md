@@ -11,8 +11,8 @@
 
 效果图如下：
 
+![image](https://github.com/ZBJDSBJ/Camera/blob/master/Screenshot_2016-04-18-15-56-07.png)
+
+![image](https://github.com/ZBJDSBJ/Camera/blob/master/Screenshot_2016-04-18-15-56-20.png)
+
 ![image](https://github.com/ZBJDSBJ/Camera/blob/master/Screenshot_2016-04-18-15-55-57.png)
-
-![image](https://github.com/ZBJDSBJ/Camera/blob/master/Screenshot_2016-04-18-15-56-07.png)
-
-![image](https://github.com/ZBJDSBJ/Camera/blob/master/Screenshot_2016-04-18-15-56-07.png)
