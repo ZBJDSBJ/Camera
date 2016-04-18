@@ -1,5 +1,6 @@
 # Camera
 相机杂谈：
+
 1、surfaceview实现的相机拍照预览；
 
 2、TextureView实现的相机拍照预览；
