@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+
+    <!--  错误报告 -->
+    <string name="crash_notif_ticker_text">App打卡异常，发送错误报告</string>
+    <string name="crash_notif_title">App异常</string>
+    <string name="crash_notif_text">Please select this to help us fix the problem</string>
+    <string name="crash_dialog_title">错误报告</string>
+    <string name="crash_dialog_text">An unexpected error caused the program to stop .We need your feedback to help us fix the problem. Please be assured that we only collect error information.</string>
+    <string name="crash_yes">Send</string>
+    <string name="crash_no">Cancel</string>
+    <string name="crash_subject">Error</string>
+    <string name="no_googlemarket_rate_tip">Please make sure you have Google Play installed.</string>
+
+
+</resources>

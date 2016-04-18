@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7577f</color>
+    <color name="colorPrimaryDark">#f7577f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorTab">#ECEAEA</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="focus">#2196F3</color>
+    <color name="blue">#2196F3</color>
+    <color name="white_translucent">#AAFFFFFF</color>
+    <color name="black_translucent">#B0000000</color>
+
+    <color name="border">@color/white_translucent</color>
+    <color name="guideline">@color/white_translucent</color>
+    <color name="corner">@android:color/white</color>
+    <color name="surrounding_area">@color/black_translucent</color>
+
+    <color name="ultra_dark">#29303F</color>
+
+
+</resources>
